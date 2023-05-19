@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Akshay-K-Bhat
-- 👀 I’m interested in App/Web Developing
-- 🌱 I’m currently learning java 
+- 👀 I’m interested in App/Web Developing 
 
 
 <!---
